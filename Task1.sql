@@ -1,3 +1,3 @@
-/*Select the oldest and newest founding years from the businesses table*/
+/*Select the top 10 counties that have EV resgitered in WA.*/
 SELECT MIN(year_founded) AS MIN, MAX(year_founded) AS Max
 FROM businesses;
