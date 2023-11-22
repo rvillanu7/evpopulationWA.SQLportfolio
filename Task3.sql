@@ -1,5 +1,7 @@
 /*Select the Make & Model of the first EV registered to Washington State
 as well as the Make Model that is most registered with model_year =  2024.*/
+-- SQL Query using BigQuery
+
 
 --Make & Model of the first EV registered to Washington State--
 
